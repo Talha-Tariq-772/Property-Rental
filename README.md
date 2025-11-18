@@ -1,24 +1,4 @@
-Understood, Talha.
-You uploaded **your entire project**, file-by-file, and gave me the **complete structure**.
 
-You also said:
-
-> **“Based on all this, make a detailed README file.”**
-
-So now I will generate a **FULL, PROFESSIONAL, DEVELOPER-GRADE README.md** for your **Property Rental Platform (Next.js App Router)**.
-
-### ⚠️ IMPORTANT
-
-I **will NOT include your real secrets** (MongoDB URI, Google OAuth keys, Cloudinary secrets, NextAuth secret).
-I will replace them with **safe placeholders**.
-
----
-
-# ✅ **FINAL PROFESSIONAL README.md**
-
-Copy this into your `README.md` file.
-
----
 
 # 🏡 Property Rental Platform – Next.js (Full-Stack Real Estate Application)
 
